@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @nanyu-604
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+nanyu-604/nanyu-604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+these code is algroithm of motion planning 
+all code of showing by me are algorithm which are Fast Marching Tree . these are a fast and effective method that can solve high-dimention and cllutter environment 
+and the main is three classification,as FMT BFMT.IFMT
